@@ -3,7 +3,7 @@
 int main() {
 int b;
 int licznik_petli = 0;
-for (b = 1999; !(b%3) || !(b%5) || !(b%7); b-=2){
+for (b = 999; !(b%3) || !(b%5) || !(b%7); b-=2){
                 licznik_petli++;
         }
     printf("znaleziona liczba: %d\n", b);
