@@ -7,7 +7,7 @@ int licznik_petli = 0;
 
     printf("Program podaje największą liczbę, mniejszą od\n");
     printf("podanej przez użytkownika,\n");
-    printf("jednocześnie niepodzielną przez 2, 3, 5 i 7\n\n");
+    printf("jednocześnie niepodzielną przez 2, 3, 5 i 7.  \n\n");
     printf("Podaj liczbę b: ");
     scanf("%d", &b);
     // zrób nieparzystą
